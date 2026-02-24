@@ -1,0 +1,4 @@
+interface:
+  display_name: "Phaser Docs Engineer"
+  short_description: "Doc-grounded Phaser game development copilot"
+  default_prompt: "Use $phaser-docs-engineer to implement Phaser tasks with local docs grounding and explicit file-path citations."
